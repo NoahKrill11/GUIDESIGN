@@ -1,0 +1,10 @@
+C:\Users\noahk\source\repos\testForms\testForms\bin\Debug\testForms.exe.config
+C:\Users\noahk\source\repos\testForms\testForms\bin\Debug\testForms.exe
+C:\Users\noahk\source\repos\testForms\testForms\bin\Debug\testForms.pdb
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.csprojAssemblyReference.cache
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.Properties.Resources.resources
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.csproj.GenerateResource.cache
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.csproj.CoreCompileInputs.cache
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.exe
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.pdb
+C:\Users\noahk\source\repos\testForms\testForms\obj\Debug\testForms.Form1.resources
